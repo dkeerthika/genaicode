@@ -1,3 +1,5 @@
 langchain
 openai
 python-dotenv
+
+# 43UN0viDejBaq6dP6KY2KNU0LVf2Tp4EcneyqloB54AZNbMV#lO8y5pToncTxd5wVHO4YLU_V3fM40U_1I13k7WLGhwQ
